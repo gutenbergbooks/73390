@@ -426,7 +426,7 @@ positively only one which has the finest position on the south coast.
 Indeed, there is only one of these in the whole of England, though
 there are two which have the finest position on the east coast.
 
-How is it, we wonder that with so much variation on a single theme
+How is it, we wonder, that with so much variation on a single theme
 such artistic restraint is achieved? It is clear, I think, that before
 they send in their manuscripts the hotel-managers must meet somewhere
 and agree together the exact terms of their contributions to the book.
@@ -548,7 +548,7 @@ It was saved, like many parties, by “shop,” and not war-shop, at least
 not exactly. What sort of shop will amuse ten one-legged men? Why,
 one-legged shop, of course. Somebody said, “Is your leg comfortable?”
 and that set the ball rolling. All the tongues wagged gleefully at
-once; all the technical details of one-legedness, all the points of the
+once; all the technical details of one-leggedness, all the points of the
 various kinds of “legs,” were brought out and tossed about and hotly
 contested as if we had been a number of golfers arguing the merits
 of different makes of putters. Some of us wear “stump-socks”; some
@@ -933,7 +933,7 @@ perplexing phase of agricultural life.” John thought that must refer to
 the page where he had described the allotments at Shepherd’s Bush. But
 he was pleased and surprised by what they said.
 
-What he did _not_ like was interpretation offered by his family and
+What he did _not_ like was the interpretation offered by his family and
 his friends, who at once decided that the work was the autobiography
 of John Antony. You see, the scene was laid in London, and John lived
 in London; the murdered girl was a typist, and there were two typists
@@ -1422,7 +1422,7 @@ caught me in the chest, and FLOOD filled the bath with cold water long
 before it could be identified and turned off.
 
 No, taps are not of the first importance, though, properly polished,
-they look well. But no bath is complete without one of these attractive
+they look well. But no bath is complete without one of those attractive
 bridges or trays where one puts the sponges and the soap. Conveniences
 like that are a direct stimulus to washing. The first time I met one I
 washed myself all over two or three times simply to make the most of
@@ -2294,7 +2294,7 @@ had my fare paid to Tarshish?
 
 _Mrs. J._ and _T. J. raise their eyebrows at this suspicious utterance._
 
-_Mrs. T. J._ Tarshish! Sure it’s drunk he is!... Then how came you
+_Mrs. J._ Tarshish! Sure it’s drunk he is!... Then how came you
 lepping into the water like a young dog or a boy that does be diving in
 the hot weather, and you with----
 
@@ -2889,7 +2889,7 @@ for hundreds of years to come. It took nearly a day to read them. While
 they were being read, the old men who were not reading, the barristers,
 the odd dozen of “the public,” the clerks, everybody--sat or stood in a
 sort of coma of stupefied boredom, gazing at nothing. No one stirred.
-Only, Very far away, the gentle voice of the old man might have been
+Only, very far away, the gentle voice of the old man might have been
 heard rolling up to the roof, and squeaking about in the corners, and
 buzzing about like a sleepy bee under the benches--and always with a
 faint note of querulous amazement, as if the old man could not believe
@@ -3082,7 +3082,7 @@ about their scores; one man I watched had obviously just beaten the
 record for halibut retrieving. He retrieved so many in about a minute
 that the tops of his boots were just beginning to show. When he had
 done that he made such long notes in his book about it that most of
-the halibut slide on to the floor again while he was doing it. Then he
+the halibut slid on to the floor again while he was doing it. Then he
 began all over again. But I expect he won the prize.
 
 Meanwhile about a million fish-porters are dashing up and down the
@@ -3338,7 +3338,7 @@ they all exist? It is mysterious.
 Especially when you consider how much trouble they take to avoid
 attracting attention. There are still one or two window-dressers who
 lower the whole tone of the street by adhering to the gaudy-overcrowded
-style; but the majority in a violent reaction from that, seem to have
+style; but the majority, in a violent reaction from that, seem to have
 rushed to the wildest extremes of the simple-unobtrusive. They are
 delightful, I think, those reverent little windows with the chaste
 curtains and floors of polished walnut, in the middle of which reposes
@@ -3432,10 +3432,10 @@ ashamed_.
 The red velvet curtain is drawn across the door of the tent, muffling
 the wild noises of the fair.
 
-Mr. Slint, the little showman, adjusts his gold pincenez and speaks;
+Mr. Slint, the little showman, adjusts his gold pince-nez and speaks;
 the audience close round the table and crane their necks. Mr. Slint
 speaks in the patronizing, almost contemptuous, tones of the expert
-lecturer who has something unique to ofter.
+lecturer who has something unique to offer.
 
 _Mr. Slint_ (_quietly_). I now show you the Performing Fleas. The fleas
 are common fleas, trained by myself. Perseverance and patience is alone
@@ -3509,7 +3509,7 @@ It is a moving sight. There is something very sinister in that steady,
 noiseless, calculated progress--for I need not say that the fleas
 are moving _away_ from Mr. Slint: they are moving with machine-like
 precision towards Reginald. No, they have changed direction. Edward has
-given them “Right incline!” They are moving with machine-gun precision,
+given them “Right incline!” They are moving with machine-like precision,
 silent, inexorable, cabs and all, towards the materfamilias.
 
 _R._ (_Shrilly, still worried_). Do they have to be unharnessed for
@@ -3593,7 +3593,7 @@ Lurch during their lives; so they are discovered standing on the hill
 preparing to go down to The Lurch. _Indigestion_ endeavours to dissuade
 them, saying that they had much better go down the other side of the
 hill into The Limbo. But the seductive figure of _Food_ intervenes,
-gorgeously, dressed in aspic, and eventually prevails.
+gorgeously dressed in aspic, and eventually prevails.
 
 At this point there is a jolly bit of dialogue.--
 
@@ -3918,6 +3918,7 @@ CURTAIN
   Variations in spelling and hyphenation are retained.
 
   Perceived typographical errors have been changed.
+
 
 
 
